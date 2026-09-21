@@ -1,5 +1,14 @@
 # Marine Debris Detection from Side-Scan Sonar Imagery
 
+<p align="left">
+  <a href="https://github.com/priyanshubisht2611-prog/Debris-Detection/actions/workflows/ci.yml">
+    <img src="https://github.com/priyanshubisht2611-prog/Debris-Detection/actions/workflows/ci.yml/badge.svg" alt="CI Pipeline" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
+  </a>
+</p>
+
 Side-scan sonar produces long greyscale waterfall images of the seabed. Somewhere in them are tyres, oil drums, lost fishing gear and wrecks. This project finds them, puts a latitude and longitude on each one, works out how deep it is and how long it would take to recover, tracks what changes between surveys, and shows the result on an interactive map.
 
 ---
